@@ -1,0 +1,19 @@
+{
+  "name": "ex07-sistema-simples-de-produto",
+  "version": "1.0.0",
+  "description": "Crie um mock de um banco de produtos para um almoxarifado da prefeitura.",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
